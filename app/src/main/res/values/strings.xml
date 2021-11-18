@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Examen</string>
+    <string name="number">Number</string>
+    <string name="apocalypticNumber">Apocalyptic Number</string>
+    <string name="submit">Calculate</string>
+    <string name="result">Result</string>
+    <string name="optionDouble">Double</string>
+    <string name="optionApocalyptic">Apocalyptic</string>
+    <string name="dateLabel">Date</string>
+</resources>
